@@ -6,3 +6,4 @@ def byebye_terminalx():
 
 if __name__ == '__main__':
     hello_terminalx()
+    byebye_terminalx()
