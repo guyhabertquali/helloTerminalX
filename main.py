@@ -3,6 +3,7 @@ def hello_terminalx():
 
 def byebye_terminalx():
     print("byebye terminalX")
+    print("guy")
 
 if __name__ == '__main__':
     hello_terminalx()
