@@ -4,6 +4,7 @@ def hello_terminalx():
 def byebye_terminalx():
     print("byebye terminalX")
     print("guy")
+    print("bye")
 
 if __name__ == '__main__':
     hello_terminalx()
